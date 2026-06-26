@@ -1,4 +1,4 @@
-# COVID-19 Death Rate Analysis using Python
+# COVID-19 Death Rate Analysis Dashboard
 
 ## Project Overview
 
@@ -12,7 +12,19 @@ This project analyzes global COVID-19 data to understand death trends, mortality
 * Matplotlib
 * Plotly
 * Google Colab
+## Power BI Dashboard
+This project analyzes COVID-19 death rates using Power BI.
 
+### Dashboard Features
+- Total Confirmed Cases
+- Total Death Cases
+- Death Rate by Country
+- Country-wise Filtering
+
+### Tools Used
+- Power BI
+- CSV Dataset
+- GitHub
 ## Features
 
 * Data Cleaning
